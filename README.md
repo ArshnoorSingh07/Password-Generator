@@ -1,4 +1,4 @@
-# Password-Generator
+# Password Generator
 
 A professional, responsive web-based password generator that allows users to generate strong passwords with customizable criteria. The project includes real-time password strength feedback and clipboard support.
 
